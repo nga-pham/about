@@ -5,9 +5,18 @@ The most important page, consists of 5 sections:
 ### 1.1. Booking section
 Include a place to advertise the page, and a booking form for customers to book services. 
 * To advertise the page: use a photo and a slogan.
-* To book services: list of available services (confinement nanny, one time / ad hoc, recurring / long-term), date and time picker, enquiries (optional), and button “book now”. When a customer clicks this button, the landing page will change to the result page, showing available options for him:
+* To book services: list of available services (confinement nanny, one time / ad hoc, recurring / long-term), date and time picker, enquiries (optional), and button “book now”.
 
+When a customer clicks this button, the system will ask if they have already signed up.
+
+- if they've already signed up: the system will change to sign in form.
+- if they've not: the system will change to sign up form, instructing them to create an account and come back to sign in form.
+
+After signing in, the system will redirect to another page to choose the options and fill in form, with more detail about your booking (when to get baby to sleep, etc...)
 The options are a list of nannies, each with their experience, expertise, information, and their available time.
+
+After completing it, user will pay deposit and click button "send request". Their information will be saved in the system.
+
 ### 1.2. Instruction section
 * Include a media highlighting how to book, a step-by step instruction
 * The media should be a video or slideshow showing how to book services.
