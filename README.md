@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nga Pham, a female developer from Vietnam.
+- 👋 Hi, I’m Nga Pham, a female developer in EU.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning ReactJS and VueJS.
 - 💞️ I’m looking to collaborate on building interactive and responsive website.
